@@ -1,5 +1,11 @@
-FROM python:3.10-slim
+# Dockerfile
+
+FROM python:3.9-slim
+
 WORKDIR /app
-COPY app/ .
-RUN pip install --no-cache-dir pillow
-CMD ["python", "main.py"]
+
+COPY app/ /app/
+
+RUN pip install pillow
+
+ENTRYPOINT ["python", "main.py"]
