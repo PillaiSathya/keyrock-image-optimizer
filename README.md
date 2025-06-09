@@ -1,10 +1,10 @@
-# 🌟 Keyrock Challenge – Image Optimizer on Kubernetes
+# 🌟 Keyrock Challenge – Image Optimizer on Kubernetes✨✨
 
 This project simulates a production-ready deployment of a lightweight Python-based image optimizer that can **resize** and **compress** images via Docker and Kubernetes.
 
 ---
 
-## 🚀 Features
+## 🚀 Features.
 
 - 🐍 Python app with Pillow library
 - 🐳 Dockerized and pushed to Docker Hub
