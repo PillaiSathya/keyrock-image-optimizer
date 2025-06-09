@@ -18,7 +18,7 @@ This project simulates a production-ready deployment of a lightweight Python-bas
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Tech Stack.
 
 | Tool        | Purpose                       |
 |-------------|-------------------------------|
